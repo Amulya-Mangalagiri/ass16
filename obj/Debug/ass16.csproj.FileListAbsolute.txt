@@ -1,0 +1,8 @@
+D:\jul24\ass16\ass16\bin\Debug\ass16.exe.config
+D:\jul24\ass16\ass16\bin\Debug\ass16.exe
+D:\jul24\ass16\ass16\bin\Debug\ass16.pdb
+D:\jul24\ass16\ass16\obj\Debug\ass16.csproj.AssemblyReference.cache
+D:\jul24\ass16\ass16\obj\Debug\ass16.csproj.SuggestedBindingRedirects.cache
+D:\jul24\ass16\ass16\obj\Debug\ass16.csproj.CoreCompileInputs.cache
+D:\jul24\ass16\ass16\obj\Debug\ass16.exe
+D:\jul24\ass16\ass16\obj\Debug\ass16.pdb
